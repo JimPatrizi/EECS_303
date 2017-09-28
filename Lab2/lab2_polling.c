@@ -12,7 +12,7 @@
 #include <stdbool.h>
 #include <time.h>
 
-#define DHT_PIN 4 //Data Pin to DHT, changed to non broadcom
+#define DHT_PIN 4 //Data Pin to DHT
 
 int dht_data[5] = {0,0,0,0,0}; 
 
@@ -69,7 +69,7 @@ bool read_dht()
   FILE *fp;
   time_t ltime = time(NULL);
   
-  fp = fopen("/home/group4/Lab2/data/data.txt", "a");
+  fp = fopen("data.txt", "a");
   if(fp == NULL)
   {
 	  printf("Error opening file\n");

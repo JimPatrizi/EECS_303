@@ -34,6 +34,7 @@ void risingEdgeCheck(){
 
 void start_request()
 {
+	
   //make sure all data is 0 at the start of read for read buffer
   dht_data[0] = 0;
   dht_data[1] = 0;
