@@ -1800,3 +1800,1371 @@ Time: Thu Sep 28 18:51:46 2017
  Humidity = 0.0 and Temperature = 0.0
 Time: Thu Sep 28 18:52:49 2017
  Humidity = 0.0 and Temperature = 0.0
+Time: Thu Sep 28 16:44:29 2017
+ Humidity = 32.0 and Temperature = 28.0
+Time: Thu Sep 28 16:44:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:44:31 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:44:34 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:44:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:54:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:54:13 2017
+ Humidity = 29.0 and Temperature = 26.0
+Time: Thu Sep 28 16:54:14 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:16 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:17 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:19 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:20 2017
+ Humidity = 29.0 and Temperature = 26.0
+Time: Thu Sep 28 16:54:21 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:23 2017
+ Humidity = 29.0 and Temperature = 26.0
+Time: Thu Sep 28 16:54:24 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:25 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:27 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:28 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:29 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:32 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:33 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:34 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:42 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:45 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:46 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:48 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:49 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:50 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:52 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:53 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:56 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:57 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:54:59 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:55:00 2017
+ Humidity = 19.0 and Temperature = 24.0
+Time: Thu Sep 28 16:55:02 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:03 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:05 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:06 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:09 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:10 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:12 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:13 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:16 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:17 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:18 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:20 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:21 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:22 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:37 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:38 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:40 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:53 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:55 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:56 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:58 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:55:59 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:01 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:02 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:03 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:06 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:09 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:22 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:24 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:56:29 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:56:31 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:56:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:34 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:37 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:38 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:41 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:56:42 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:56:45 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:46 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:48 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:49 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:51 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:52 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:56:54 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:56:56 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:56:58 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:56:59 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:57:00 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:02 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:03 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:05 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:06 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:57:07 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:57:08 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:11 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:12 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:14 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:15 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:57:17 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:18 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:19 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:21 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:22 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:23 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:26 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:27 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:29 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:30 2017
+ Humidity = 28.0 and Temperature = 27.0
+Time: Thu Sep 28 16:57:32 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:33 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:34 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:35 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:36 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:37 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:38 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:39 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:41 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:43 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:44 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:47 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:48 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:50 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:51 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:53 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:54 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:56 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:57 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:58 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:57:59 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:10 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:11 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:12 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:13 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:15 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:16 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:17 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:58:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:27 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:39 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:50 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:54 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:58 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:58:59 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:00 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:02 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:17 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:27 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:31 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:37 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:38 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:39 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:59:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:42 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:43 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:59:44 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:59:46 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:59:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:50 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:54 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:59:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 16:59:57 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 16:59:59 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:00 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:00:03 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:06 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:09 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:10 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:12 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:13 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:15 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:16 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:17 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:19 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:22 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:23 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:24 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:25 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:27 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:28 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:30 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:31 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:33 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:34 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:37 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:38 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:39 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:40 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:41 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:42 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:44 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:45 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:47 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:50 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:51 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:52 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:54 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:55 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:00:58 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:00 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:01 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:02 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:05 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:06 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:08 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:09 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:11 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:12 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:13 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:15 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:16 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:17 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:20 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:21 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:22 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:24 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:25 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:27 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:28 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:29 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:31 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:32 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:01:33 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:29 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:31 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:32 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:33 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:35 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:36 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:37 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:38 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:13:46 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:47 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:13:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:02 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:05 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:13 2017
+ Humidity = 24.0 and Temperature = 27.0
+Time: Thu Sep 28 17:26:14 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:17 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:18 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:22 2017
+ Humidity = 24.0 and Temperature = 27.0
+Time: Thu Sep 28 17:26:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:31 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:39 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:42 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:46 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:50 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:53 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:26:59 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:00 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:09 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:17 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:22 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:29 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:37 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:39 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:58 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:27:59 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:02 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:05 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:09 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:14 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:17 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:18 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:22 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:27 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:29 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:34 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:39 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:54 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:28:58 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:05 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:18 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:22 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:27 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:34 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:37 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:38 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:39 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:29:58 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:02 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:05 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:09 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:22 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:27 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:37 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:42 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:46 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:50 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:54 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:30:59 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:00 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:05 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:09 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:18 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:22 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:29 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:37 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:39 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:42 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:46 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:50 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:31:58 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:18 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:31 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:41 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:42 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:46 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:50 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:53 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:54 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:32:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:00 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:09 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:14 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:17 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:18 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:21 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:31 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:33 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:38 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:39 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:42 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:46 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:51 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:53 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:54 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:33:59 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:00 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:02 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:05 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:13 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:14 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:17 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:29 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:31 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:34:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:49 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:46:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:53 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:46:58 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:00 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:02 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:04 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:05 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:09 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:14 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:18 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:20 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:23 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:24 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:28 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:31 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:33 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:34 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:35 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:36 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:39 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:40 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:42 2017
+ Humidity = 18.0 and Temperature = 25.0
+Time: Thu Sep 28 17:47:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:45 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:47 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:47:57 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:02 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:08 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:10 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:11 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:12 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:14 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:15 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:16 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:18 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:19 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:20 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:23 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:24 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:25 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:26 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:30 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:31 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:32 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 17:48:34 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:43 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:44 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:46 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:48 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:49 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:50 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:52 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:55 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:56 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:58 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:00:59 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:01:01 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:01:03 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:01:04 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:01:06 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:01:07 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:01:09 2017
+ Humidity = 18.0 and Temperature = 26.0
+Time: Thu Sep 28 18:01:11 2017
+ Humidity = 18.0 and Temperature = 26.0
