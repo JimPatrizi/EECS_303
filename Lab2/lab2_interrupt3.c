@@ -35,16 +35,15 @@ int bitIndex = 0;
 
 //ISR routine
 void ISR_fallCheck(){
- 	currentMicroseconds = micros();
+ 	unsigned int pastMicroseconds= micros();
 	//if (newUs - us > 255) 
 	//{
     //state = STOPPED;
     //detachInterrupt();
     //return;
 	//}
-	printf("state = %d", state);
 	delta = currentMicroseconds - prevMicroseconds;
-	printf("Current Microseconds = %d\n Prev Microseconds = %d\n", currentMicroseconds, prevMicroseconds);
+	//printf("Current Microseconds = %lf\n Prev Microseconds = %lf\n", (double) currentMicroseconds, (double) prevMicroseconds);
 	prevMicroseconds = currentMicroseconds;
 	if(delta > 95 && response_signal)
 		state = DATA; //1 came in
@@ -109,10 +108,6 @@ int main()
 		break;
 		
 		case RESPONSE	:
-			printf("did I get to response?\n");
-			printf("delta = %d\n", delta);
-			printf("currentMicroseconds = %d\n", currentMicroseconds);
-			printf("response_signal = %d\n", response_signal);
 			response_signal = 1;
 			//waitForInterrupt(DHT_PIN, -1);
 		break;

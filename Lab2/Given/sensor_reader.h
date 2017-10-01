@@ -10,7 +10,7 @@
 
 // Constants - Defined in sensor_reader_common.c
 #define TOTAL_BITS_PER_READ 40
-extern const int MAX_PRIORITY;
+extern const int MAX_PRIORITY = 99;
 extern const int SENSOR_PIN_NUM;
 extern const int READ_INIT_DELAY_MS;	
 extern const int WAIT_FOR_SENSOR_DELAY_MAX_US;	

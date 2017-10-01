@@ -1968,3 +1968,342 @@ Humidity: -1.-1
 Checksum read: -1
 Checksum calc'd: 252
 Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 17:50:40 2017
+Temp: 22.0
+Humidity: 37.16
+Checksum read: 55
+Checksum calc'd: 75
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:41 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:42 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:43 2017
+Temp: -1.-1
+Humidity: 33.0
+Checksum read: -1
+Checksum calc'd: 31
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:44 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:45 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:46 2017
+Temp: -1.-1
+Humidity: 32.-1
+Checksum read: -1
+Checksum calc'd: 29
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:47 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:48 2017
+Temp: -1.-1
+Humidity: 191.0
+Checksum read: -1
+Checksum calc'd: 189
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 17:50:49 2017
+Temp: 22.0
+Humidity: 31.9
+Checksum read: 60
+Checksum calc'd: 62
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:50 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:51 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 17:50:52 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 17:50:53 2017
+Temp: 22.0
+Humidity: 35.0
+Checksum read: 62
+Checksum calc'd: 57
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:15:10 2017
+Temp: 25.-1
+Humidity: 29.0
+Checksum read: -1
+Checksum calc'd: 53
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:15:11 2017
+Temp: 24.-1
+Humidity: 24.0
+Checksum read: -1
+Checksum calc'd: 47
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:15:12 2017
+Temp: -1.-1
+Humidity: 20.0
+Checksum read: -1
+Checksum calc'd: 18
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:15:13 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:15:14 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:15:15 2017
+Temp: 24.0
+Humidity: 24.0
+Checksum read: 49
+Checksum calc'd: 48
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:15:16 2017
+Temp: 1.-1
+Humidity: 4.192
+Checksum read: -1
+Checksum calc'd: 196
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:15:17 2017
+Temp: 24.0
+Humidity: 19.0
+Checksum read: -1
+Checksum calc'd: 43
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:15:18 2017
+Temp: 152.0
+Humidity: 83.2
+Checksum read: 42
+Checksum calc'd: 237
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:15:20 2017
+Temp: 5.-1
+Humidity: 10.100
+Checksum read: -1
+Checksum calc'd: 114
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:28:11 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:28:12 2017
+Temp: -1.-1
+Humidity: 144.3
+Checksum read: -1
+Checksum calc'd: 145
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:28:13 2017
+Temp: 24.128
+Humidity: 23.0
+Checksum read: 46
+Checksum calc'd: 175
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:28:14 2017
+Temp: 56.0
+Humidity: 23.0
+Checksum read: 46
+Checksum calc'd: 79
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+Error reading from the sensor
+TIME OF MEASUREMENT: Sun Oct  1 19:28:15 2017
+Temp: -1.-1
+Humidity: -1.-1
+Checksum read: -1
+Checksum calc'd: 252
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:28:16 2017
+Temp: 26.0
+Humidity: 22.0
+Checksum read: 46
+Checksum calc'd: 48
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:28:17 2017
+Temp: 28.0
+Humidity: 23.128
+Checksum read: 46
+Checksum calc'd: 179
+Checksum valid: false
+
+
+
+RESULTS OF READING VIA: interrupts
+TIME OF MEASUREMENT: Sun Oct  1 19:28:18 2017
+Temp: 24.0
+Humidity: 22.0
+Checksum read: 46
+Checksum calc'd: 46
+Checksum valid: true
