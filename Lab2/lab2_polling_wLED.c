@@ -38,6 +38,7 @@ void start_request()
   delayMicroseconds(40);
 }
 
+//Reads each byte and accounts for delay between bytes
 int dhtReadByte(int dhtPin)
 {
   int i;
@@ -55,7 +56,7 @@ int dhtReadByte(int dhtPin)
     if (digitalRead(dhtPin) == HIGH)
     {  //  We have a digital 1
       byte |= 1 << (7 - i); // Save the bit.
-     while(digitalRead(dhtPin) == HIGH)
+     while(digitalRead(dhtPin) == HIGH)//we dont care about 0s, we just skip over that bit and keep the 0
      {
 		if(loopCnt-- == 0)
 			break;
@@ -66,12 +67,13 @@ int dhtReadByte(int dhtPin)
   return byte;
 }
 
+//read 1 reading from dht sensor
 bool read_dht()
 {
 	
   FILE *fp;
   time_t ltime = time(NULL);
-  
+  //open for file to write readings and time stamp to
   fp = fopen("data.txt", "a");
   if(fp == NULL)
   {
@@ -79,16 +81,18 @@ bool read_dht()
 	  exit(1);
   }
   
+  //start handshake
   start_request();
   pinMode(DHT_PIN, INPUT);
  
- 
+  //first look for pin to go low as per timing diagram
   unsigned int loopCnt = 1000000;
   while(digitalRead(DHT_PIN) == LOW)
   {
 	if(loopCnt-- == 0) 	return -1;
   }
 	loopCnt = 1000000;
+  //look for pin to go high before data come in, timing between bytes/bits happens in dhtReadByte
   while(digitalRead(DHT_PIN) == HIGH)
   {
 	if(loopCnt-- == 0) 	return -1;
@@ -123,18 +127,12 @@ bool read_dht()
   
   
 }
-  // Do all the receiving job here...
-// Check if checksum is correct, if yes return true, if not
-//return false.
-//booldata type is declared in header file  stdbool.h
 
-//And when you try to get a data, you may use the following code:
-//while(readDHTSensor() == false);
 
 int main()
 {
 
-
+//increase priority
   if(piHiPri(99) != 0)
   {
 	printf("Failed to increase priority");

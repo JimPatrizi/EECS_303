@@ -35,6 +35,8 @@ void start_request()
   delayMicroseconds(40);
 }
 
+
+//Reads each byte and accounts for delay between bytes
 int dhtReadByte(int dhtPin)
 {
   int i;
@@ -42,6 +44,7 @@ int dhtReadByte(int dhtPin)
   unsigned int loopCnt = 1000000;
   
   for (i=0 ; i < 8 ; i++) {
+    //waits for pin to transition from high to low for data bus too come in
     while(digitalRead(dhtPin) == LOW)
     {
 		if(loopCnt-- == 0)
@@ -49,7 +52,7 @@ int dhtReadByte(int dhtPin)
 	} // Wait for input to switch to HIGH
 	delayMicroseconds(35); // Wait for digital 1 mid-point. (70micro for high, 35 is midpoint)
     //if midpoint is not high after 35 sec, we still have a 0
-    if (digitalRead(dhtPin) == HIGH)
+    if (digitalRead(dhtPin) == HIGH) //we dont care about 0s, we just skip over that bit and keep the 0
     {  //  We have a digital 1
       byte |= 1 << (7 - i); // Save the bit.
      while(digitalRead(dhtPin) == HIGH)
@@ -63,6 +66,7 @@ int dhtReadByte(int dhtPin)
   return byte;
 }
 
+//read 1 reading from dht sensor
 bool read_dht()
 {
 	
@@ -76,16 +80,18 @@ bool read_dht()
 	  exit(1);
   }
   
+  //start handshake
   start_request();
   pinMode(DHT_PIN, INPUT);
  
- 
+ //first look for pin to go low as per timing diagram
   unsigned int loopCnt = 1000000;
   while(digitalRead(DHT_PIN) == LOW)
   {
 	if(loopCnt-- == 0) 	return -1;
   }
 	loopCnt = 1000000;
+ //look for pin to go high before data come in, timing between bytes/bits happens in dhtReadByte
   while(digitalRead(DHT_PIN) == HIGH)
   {
 	if(loopCnt-- == 0) 	return -1;
@@ -113,18 +119,12 @@ bool read_dht()
   
   
 }
-  // Do all the receiving job here...
-// Check if checksum is correct, if yes return true, if not
-//return false.
-//booldata type is declared in header file  stdbool.h
-
-//And when you try to get a data, you may use the following code:
-//while(readDHTSensor() == false);
+  
 
 int main()
 {
 
-
+//increase priority
   if(piHiPri(99) != 0)
   {
 	printf("Failed to increase priority");
