@@ -1,0 +1,9 @@
+Assignment 3:  Connecting a Display to RPi to read data from the DHT11 sensor
+
+Part 4
+
+In this Assignment, we want to use a Display to show the temperature or humidity once it is recorded by RPi. Connect the LCD DISPLAY board, which is provided to each group,  on the RPi GPIOs.  Develop a C or Python routine to show the RPi transaction data on the display.  Details about the LCD Display are provided in separate. Note, Assignment 3 assumes that you have completed all relevant parts of Assignments 1 and 2.
+
+
+
+

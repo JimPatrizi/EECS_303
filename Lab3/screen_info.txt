@@ -1,0 +1,23 @@
+Attached file is a sample code of how to control backlight and display text on LCD module. Using the module directly is not 
+well documented (at least I didn't find any documentation). 
+So Dr. ChrisP and we think it is necessary to have this sample code.
+
+The module is a character display, which means dot matrix is grouped and separated by a gap, so it is not suitable for graphics. 
+The whole screen can display 16 characters * 2 lines, 32 characters in total. The communication is using I2C protocol. 
+It has two I2C addresses, one for backlight, the other for text display. 
+As its name indicates, backlight is not monochromatic like other common LCD's. 
+You can control the backlight color by sending RGB color components to backlight I2C address. 
+Different intensity/brightness is controlled by PWM (PWM is already builtin to the module). 
+Text display is achieved by sending characters and "special" (moving cursor) commands.
+
+
+The sample code also shows a way to handle sigInt (Ctrl+C), which is the addendum of assignment 1. 
+Since you already finish that part, it's okay to include it here.
+
+The sample code is well commented. But if you still have any question, of course we can discuss it.
+
+*The underlying communication of LCD is SPI, which requires more wires than I2C. 
+There is a builtin I2C chip on this RGB LCD module, which do all the communication protocol conversion job for you.
+
+More information about wiringPi and its I2C API's, please visit official website. 
+Note that some of the information on the website is OUTDATED, and does not apply to Raspberry Pi 3 and new Raspbian OS.
