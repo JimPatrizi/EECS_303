@@ -420,7 +420,7 @@ int main()
 		
 		++readIdx;
 	}
-	releaseGpio();
+	//releaseGpio();
 	
 	return 0;	
 }
