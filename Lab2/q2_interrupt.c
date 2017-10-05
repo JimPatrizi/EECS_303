@@ -72,8 +72,6 @@ void initRead()
 	currentState = INIT_PULL_LINE_LOW;
 	
 	// Pull the data line down for 18ms,
-	// then pull it back up. The datasheet
-	// says 500us, but this doesn't work.
 	// Reserve the GPIO pin
 	pinMode(DHT_PIN, OUTPUT);
 	digitalWrite(DHT_PIN, LOW);
@@ -83,7 +81,7 @@ void initRead()
 	readisReady = true;
 	
 	// Needed or else the ISR will never be executed
-	// (since the sensor is still low and needs to be pulled up).
+	// since the sensor is still low
 	sensorReadISR();	
 }
 
@@ -328,12 +326,9 @@ void sensorReadISR()
 				
 			++currentReadingBitIndex;
 			
-			// The "-1" accounts for a 0-initial value for the idx
+			// The -1 accounts for a 0-initial value for the idx
 			// At this point, the last bit time has to be read, so delay
 			// 40, then poll the input to see if it's high.
-			// If it is, then the current bit must be a 1.
-			// The side effect to this is that if this bit is 
-			// held too long, we won't be able to tell.
 			if (currentReadingBitIndex >= TOTAL_BITS_PER_READ)
 			{
 				currentState = READ_COMPLETE;
