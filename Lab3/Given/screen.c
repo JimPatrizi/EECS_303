@@ -109,7 +109,7 @@ int main(int argc, const char *argv[])
 	}
 	
 	// Display text.
-	setText("Hello:\n      World!");
+	setText("Hey:\nDrew!");
 	
 	int colorCount = 0;
 	

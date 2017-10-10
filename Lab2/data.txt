@@ -42,3 +42,23 @@ Time: Thu Oct  5 16:49:26 2017
  Humidity = 30.0 and Temperature = 27.0
 Time: Thu Oct  5 16:49:27 2017
  Humidity = 30.0 and Temperature = 27.0
+Time: Tue Oct 10 16:35:27 2017
+ Humidity = 36.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:28 2017
+ Humidity = 36.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:30 2017
+ Humidity = 35.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:32 2017
+ Humidity = 35.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:33 2017
+ Humidity = 35.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:34 2017
+ Humidity = 35.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:36 2017
+ Humidity = 35.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:37 2017
+ Humidity = 35.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:39 2017
+ Humidity = 35.0 and Temperature = 26.0
+Time: Tue Oct 10 16:35:41 2017
+ Humidity = 35.0 and Temperature = 26.0
