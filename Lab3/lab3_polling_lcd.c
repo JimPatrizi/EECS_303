@@ -11,8 +11,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <time.h>
-#include <signal.h>
-#include <wiringPiI2C.h>
+#include <signal.h> //for CTRL+C Stop Signal
+#include <wiringPiI2C.h> //for I2C library
 
 #define DHT_PIN 4 //Data Pin to DHT
 
