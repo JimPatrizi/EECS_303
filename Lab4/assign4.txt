@@ -1,0 +1,9 @@
+ASSIGNMENT 4
+
+Part 1:
+Write an assembly program that will turn on and off an LED connected to an RPi GPIO pin.  You may want to time the pin toggling by a clock frequency in seconds.  The LED should turn finally off after 10 togglings.
+
+Part 2:
+Write an assembly routine that will use the PWM capability of the RPi to dim the LED lighting which you developed in Part 1 of this assignment.
+
+For your assignment you should use the gcc assembler for ARM.  You should also use gdb, the gcc debugger, for your software  development.  Use gdb with break points, read registers and other debugging options.

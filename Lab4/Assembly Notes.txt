@@ -1,0 +1,81 @@
+About assembling and linking your code:
+
+1. Using as and ld:
+To assemble:
+	as file.s -o file.o
+To link:
+	ld file.o -o file
+Then run the executable: sudo ./file
+
+
+2. Using gcc:
+To assemble and link:
+	gcc file.s -o file
+
+Then run.
+
+When using as, the entry point should be "start". When using gcc, it is "main".
+
+To use a C function in assembly code, first make the function available by:
+	.extern FUNCTION_NAME
+
+When calling the function, first four parameters should be passed in register R0 - R3. From the fifth paramater, use stack.
+
+After loading all parameters, call the function by branch link:
+	bl FUNCTION_NAME
+
+The return value is in rgister R0 after function call is finished.
+
+====================
+
+About this assignment:
+
+There are two ways to do this assignment.
+
+1. The hard way. The operating system (Linux) prevents you from changing register value directly. So you have to access /dev/mem file. Here are the steps to access mem file:
+
+(1) Use function "open" to open /dev/mem file. (Hint: mode: O_RDWR|O_SYNC)
+(2) Do a memory map using "mmap". Save the return value (gpio) of mmap . (Hint: memory protection: PROT_READ|PROT_WRITE|PROT_EXEC, flags: MAP_SHARED|MAP_LOCKED)
+(3) After memory map, close the file using "close".
+(4) Make sure you check the return value for every step (1) - (3). If any of the step fails, exit.
+(5) Set input/output mode using gpio (from step 2), GPFSEL, and pin number.
+(6) Set output as high using gpio and GPFSET0 (also the pin number).
+(7) Delay a little bit by calling sleep or usleep. (Or write your own delay sub-routine.)
+(8) Set output as low using gpio and GPFCLR0 (also the pin number).
+(9) Delay.
+(10)Loop back, or ignore this step if blink only once.
+(11)Do an "unmap" to clean up.
+
+2. Easy way. If you found the hard way too hard, here is the easy way. Remember the first assignment? We wrote a blink code in C without wiringPi library. We can blink LED using system commands in assembly code. You can write the whole code by just calling C function "system".
+
+Here are the steps:
+
+(1) Export GPIO by command "echo \"%i\" > /sys/class/gpio/export". (%i is the pin number. This step is equivalent to step 1 - 4 in the hard way.)
+(2) Set GPIO direction by command "echo out > /sys/class/gpio/gpio%i/direction". (step 5 in the hard way.)
+(3) Pull high by command "echo 1 > /sys/class/gpio/gpio%i/value". (step 6 in hard)
+(4) Delay by using command or call "sleep"/"usleep" directly. (step 7 in hard)
+(5) Pull low. (step 8 in hard)
+(6) Delay.
+(7) Loop if blink multiple times.
+(8) Unexport GPIO by command "echo \"%i\" > /sys/class/gpio/unexport". (step 11 in hard)
+
+If you choose the easy way, after finishing the assignment, (if you like) try to write the hard way in C. After debugging your code, (which means it works properly) see what assembly code the compiler would generate (without optimization) for you using this command:
+	gcc -S file.c -o file.s
+
+"-o file.s" can be omitted if you want to keep the file name.
+
+====================
+
+More Hints:
+
+If you choose the hard way, here are some numbers that are useful:
+
+GPIO Base Address (Raspberry Pi 2 or later)	0x3F200000
+GPIO map length					0xB4
+GPFSEL0						0
+GPFSEL1						1
+GPFSEL2						2
+GPFSEL3						3
+GPFSET0						7
+GPFCLR0						10
+GPFLEV0						13
