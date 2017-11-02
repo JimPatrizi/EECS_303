@@ -43,9 +43,9 @@ memMsg:
 @ The program
         .text
         .align  2
-        .global main
-        .type   main, %function
-main:
+        .global open
+        .type   open, %function
+open:
 		sub     sp, sp, 16      @ space for saving regs
         str     r4, [sp, 0]     @ save r4
         str     r5, [sp, 4]     @      r5
@@ -107,5 +107,5 @@ openMode:
         .word   O_FLAGS
 memMsgAddr:
         .word   memMsg
-gpio:
+gpiobase:
         .word   PERIPH+GPIO_OFFSET
