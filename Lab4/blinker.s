@@ -97,7 +97,7 @@ mmapOK:
         mov     r2, OUTPUT      @ it's an output
         bl      gpioPinFSelect  @ select function
 
-        mov     r6, 10           @ blink five times
+        mov     r6, 10           @ blink 10 times
 loop:
         mov     r0, r5          @ GPIO programming memory
         mov     r1, PIN17
@@ -111,6 +111,10 @@ loop:
         bl      sleep
         subs    r6, r6, 1       @ decrement counter
         bgt     loop            @ loop until 0
+        
+        mov     r0, r5          @ GPIO programming memory
+        mov     r1, PIN17
+        bl      gpioPinClr		@turn off LED at close
         
         mov     r0, r5          @ memory to unmap
         mov     r1, PAGE_SIZE   @ amount we mapped
