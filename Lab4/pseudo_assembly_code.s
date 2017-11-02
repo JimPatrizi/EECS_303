@@ -1,5 +1,17 @@
-// Assember Pseudo Assembly Code to configure and turn on a GPIO LED
+@ Jim Patrizi EECS 303
 
+@ Define my Raspberry Pi
+        .cpu    cortex-a53
+        .fpu    neon-fp-armv8
+        .syntax unified
+        
+@ The program
+        .text
+        .align  2
+        .global main
+        .type   main, %function
+        
+main:
 
 	.input
 	
