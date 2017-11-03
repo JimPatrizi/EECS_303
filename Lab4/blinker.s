@@ -1,8 +1,9 @@
-@ blinkLED.s
-@ Blinks LED connected between pins 1 and 11 on Raspberry Pi
-@ GPIO connector once a second for five seconds.
-@ 2017-09-30: Bob Plantz
-
+@ blinker.s
+@ Blinks LED connected on Pin 17 on Raspberry Pi
+@ Need to link set.s, clear.s, and select.s
+@ gcc blinker.s set.s clear.s select.s -o blinker
+@ GPIO connector blinks led once a second for 10 seconds.
+@ Jim Patrizi, Drew Borneman EECS 303
 @ Define my Raspberry Pi
         .cpu    cortex-a53
         .fpu    neon-fp-armv8
@@ -10,7 +11,6 @@
 
 @ Constants for assembler
         .equ    PERIPH,0x3f000000   @ RPi 2 & 3 peripherals
-@        .equ    PERIPH,0x20000000   @ RPi zero & 1 peripherals
         .equ    GPIO_OFFSET,0x200000  @ start of GPIO device
 @ The following are defined in /usr/include/asm-generic/fcntl.h:
 @ Note that the values are specified in octal.

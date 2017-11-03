@@ -1,6 +1,7 @@
 @ Sets a GPIO pin. Assumes that GPIO registers
 @ have been mapped to programming memory.
-@ Calling sequence:
+@ Jim Patrizi, Drew Borneman EECS 303
+@ Calling:
 @       r0 <- address of GPIO in mapped memory
 @       r1 <- pin number
 @       bl gpioPinSet

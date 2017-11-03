@@ -1,6 +1,6 @@
-@ gpioPinFSelect.s
 @ Selects a function for a GPIO pin. Assumes that GPIO registers
 @ are mapped to programming memory.
+@ Jim Patrizi, Drew Borneman EECS 303
 @ Calling sequence:
 @       r0 <- address of GPIO in mapped memory
 @       r1 <- pin number
