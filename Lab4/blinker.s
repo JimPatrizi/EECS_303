@@ -10,7 +10,7 @@
         .syntax unified         @ modern syntax
 
 @ Constants for assembler
-        .equ    PERIPH,0x3f000000   @ RPi 2 & 3 peripherals
+        .equ    PERIPH,0x3f000000   @ RPi 3 peripherals
         .equ    GPIO_OFFSET,0x200000  @ start of GPIO device
 @ The following are defined in /usr/include/asm-generic/fcntl.h:
 @ Note that the values are specified in octal.
