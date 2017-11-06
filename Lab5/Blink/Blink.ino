@@ -3,6 +3,8 @@
   Turns on an LED on for one second, then off for one second, repeatedly.
  
   This example code is in the public domain.
+  
+  This example is written for the Arduino Uno 
  */
  
 // Pin 13 has an LED connected on most Arduino boards.
