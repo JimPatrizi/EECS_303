@@ -56,7 +56,7 @@ init:
         ldr     r4, [r4]		@then load the contents (#1024) because ARM doesn't handle more than 8 bit numbers as a direct operand
         mov     r5, #1			
 forLoop:
-        cmp     r4, r5			@if counter at r4 is less than 0, exit the loop
+        cmp     r4, r5			@if counter at r4 is less than 1, exit the loop
         blt     done
         
 @       pwmWrite(pin, 1) ;
