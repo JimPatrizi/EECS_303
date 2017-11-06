@@ -65,7 +65,7 @@ forLoop:
         mov     r1, r4
         bl      pwmWrite
 
-@       delay(1)               ;
+@       delay(5)               ;
         ldr     r0, =delayMs
         ldr     r0, [r0]
         bl      delay
