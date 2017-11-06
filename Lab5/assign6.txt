@@ -1,0 +1,6 @@
+Assignment 5
+
+This objective of this assignment is to familiarize yourselves with the Arduino Uno microcontroller board, the Arduino IDE installed on the Raspberry Pi 3, and some example Arduino sketches (codings) that are installed together with the IDE. 
+
+After connecting the Arduino Uno microcontroller to the Raspberry Pi 3, using a usb cable, start the Arduino IDE.
+You can use the command /usr/bin/arduino or start the IDE from the gui. From Tools => Board select the board, if not already selected. From File => Examples you can choose an example sketch to run.  Note there are a lot of examples.  Please choose 3 of them including the "Blink" one, then compile and upload the executable on the Arduino board and check the results.  Actually, there are two "Blink" examples, one using the built-in LED, the other requires an external LED connected to the Arduino pins.  You need to properly connect the LED to run and test this example. 
