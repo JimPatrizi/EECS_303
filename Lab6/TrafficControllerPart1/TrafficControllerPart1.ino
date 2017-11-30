@@ -9,7 +9,7 @@ const int Ra = 12;
 const int Ga = 9;
 const int Rb = 11;
 const int Gb = 10;
-const int buttonPin = 2;
+const int buttonPin = 4;
 
 //int SWITCH = HIGH;
 int reading = LOW;

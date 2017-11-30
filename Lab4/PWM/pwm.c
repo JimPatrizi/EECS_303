@@ -39,12 +39,14 @@ int main (void)
   pinMode (1, PWM_OUTPUT) ;
 while(1)
 {
-    for (bright = 0 ; bright < 1024 ; bright++)
+/*    for (bright = 0 ; bright < 1024 ; bright++)
     {
       pwmWrite (1, bright) ;
       delay (1) ;
     }
     delay(1000);
+    
+ */
 
     for (bright = 1023 ; bright >= 0 ; bright--)
     {
