@@ -159,7 +159,7 @@ void crosswalkBLoop(){
 void crosswalkA_ISR() {
   
     Serial.println("Crosswalk A triggered");
-  if(loopMode!=3){      //if the flag is set to 3 a crosswalk loop was just executed, prevent it from doing two crosswalk cycles back to back
+  if(loopMode==0){      //if the flag is set to 3 a crosswalk loop was just executed, prevent it from doing two crosswalk cycles back to back.  Also don't trigger if a crosswalk button has already been pushed.
     loopMode = 1;       //set the flag to run the crosswalk A cycle at the end of the current one
   }
 }
@@ -167,7 +167,7 @@ void crosswalkA_ISR() {
 void crosswalkB_ISR() {
   
     Serial.println("Crosswalk B triggered");
- if(loopMode!=3){      //if the flag is set to 3 a crosswalk loop was just executed, prevent it from doing two crosswalk cycles back to back
+ if(loopMode==0){      //if the flag is set to 3 a crosswalk loop was just executed, prevent it from doing two crosswalk cycles back to back
   loopMode = 2;       //set the flag to run the crosswalk B cycle at the end of the current one
  }
 }
