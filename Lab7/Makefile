@@ -1,4 +1,4 @@
-obj-m += blink_km.o
+obj-m += dht11.o
 
 all:
 	make -C /lib/modules/`uname -r`/build M=`pwd` modules

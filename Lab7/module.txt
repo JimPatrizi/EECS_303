@@ -1,0 +1,393 @@
+cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Connection timed out
+cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Input/output error
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+Temperature:Humidity:Time: Tue Dec  5 18:56:45 2017
+ 
+588800
+256000
+^C
+group4@pi4:~/EECS_303/Lab7$ gcc dht11logger.c
+group4@pi4:~/EECS_303/Lab7$ ./a.out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Input/output error
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:cat: /sys/bus/iio/devices/iio:device0/in_temp_input: Input/output error
+Humidity:cat: /sys/bus/iio/devices/iio:device0/in_humidityrelative_input: Connection timed out
+Time: Tue Dec  5 18:57:38 2017
+ 
+Temperature:588800
+Humidity:256000
